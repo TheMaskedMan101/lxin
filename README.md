@@ -1,3 +1,7 @@
+# note
+THIS IS VERY EXPERIMENTAL 
+
+
 # LXin
 
 LXin is an experimental programming language designed to let you run and combine multiple programming languages inside a single `.lx` file. Its purpose is to simplify multi-language development by allowing you to write Python, C#, JavaScript, shell scripts, and more all in one place without switching tools or juggling multiple files.
